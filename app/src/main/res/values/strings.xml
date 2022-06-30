@@ -1,0 +1,21 @@
+<resources>
+    <string name="maystory">My Story</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_Main"> MainActivity</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="i_accept_terms">I accept terms and conditions</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="enterTitle">Enter title</string>
+
+
+    <string name="enter_sub_title">Enter sub title</string>
+
+    <string name="enter_descrpition">Enter description</string>
+
+    <string name="add_story">Add story</string>
+</resources>
